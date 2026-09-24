@@ -11,4 +11,5 @@ add_executable(untitled main.cpp
         data.h
         LinkedList.h
         ArrayList.h
+        List.h
 )
