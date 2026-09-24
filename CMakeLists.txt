@@ -4,9 +4,9 @@ project(untitled)
 set(CMAKE_CXX_STANDARD 20)
 
 add_executable(untitled main.cpp
-        node.h
-        data.cpp
-        data.h
+        Node.h
+        Data.cpp
+        Data.h
         LinkedList.h
         ArrayList.h
         List.h
